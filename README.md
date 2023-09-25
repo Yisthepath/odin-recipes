@@ -10,10 +10,6 @@ This project is part of my journey in learning web development through [The Odin
 - **About Page**: A personal biography and journey towards web development.
 - **Contact Page**: A simple contact form (for display purposes only at this stage).
 
-## Screenshot
-
-![add a sceen shot later]
-
 ## Tools & Technologies Used
 
 - HTML5
