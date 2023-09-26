@@ -36,5 +36,3 @@ This project is part of my journey in learning web development through [The Odin
 ## Acknowledgements
 
 Big thanks to [The Odin Project](https://www.theodinproject.com/) for providing a structured path to learn web development.
-
-## License
